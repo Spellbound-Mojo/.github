@@ -8,7 +8,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# Spellbound CAS
+# Spellbound Mojo
 
 Open-source symbolic computing and data science packages. We started with functional programming fundamentals. Then we will next move to arbitrary-precision numeric library, relational e-matching, and other core CAS components. Our CAS focus is primarily probability theory and statistics, but over time we will try to grow in all directions depending on user feedback.
 
